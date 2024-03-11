@@ -1,5 +1,5 @@
 # Investment Portfolio Analysis
-Created by Demi Oyebanji as an assignment for the UofT SCS Financial Technology Bootcamp
+##### Created by [Demi Oyebanji](mailto:oluwademiladeoyebanji@outlook.com) as an assignment for the **UofT SCS Financial Technology Bootcamp**
 
 
 This project is broken down into 6 main components:
