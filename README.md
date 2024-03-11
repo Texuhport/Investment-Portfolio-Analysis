@@ -9,7 +9,7 @@ This project is broken down into 6 main components:
 - Analyzing the returns of common stocks like NVIDIA and AMD
 - Multiple plots and graphs to act as a visual aid for analysis
 
-## Plot Examples:
+## Example Visualizations:
 
 ### Returns
 ![image1](Resources/WhaleReturns.png)
